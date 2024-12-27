@@ -29,6 +29,7 @@ metadata: # Metadata of the resource kind we are creating
   name: boardgame-ssvc
   namespace: mega-project
 spec:
+  type: NodePort
   selector:
     app: boardgame
   ports:
