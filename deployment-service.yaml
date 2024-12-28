@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: boardgame
-          image: akshaybajait/boardshack:v7
+          image: akshaybajait/boardshack:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
