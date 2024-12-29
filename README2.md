@@ -28,6 +28,7 @@ This web application displays lists of board games and their reviews. While anyo
   
 ## Step by Step Implementation and proofs
 
+
 **EC2-Setup**
 
 ![EC2-Setup](https://github.com/user-attachments/assets/717234a9-a313-45c4-bb15-294ab4e417b9)
@@ -35,14 +36,6 @@ This web application displays lists of board games and their reviews. While anyo
 **Security-Group-Inbound-Port**
 
 ![Security-Group-Inbound-Port](https://github.com/user-attachments/assets/c4668dce-4a5e-4c67-89d9-cf0f8b6f768d)
-
-**Sonarqube-Report**
-
-![image](https://github.com/user-attachments/assets/253eec20-76e0-41ca-b253-06ca26da984b)
-
-**Nexus-Artifacts**
-
-![image](https://github.com/user-attachments/assets/28a7556a-e512-4e69-bc5d-4d12e0527ae9)
 
 **Elastic-IP-Jenkins**
 
@@ -52,13 +45,38 @@ This web application displays lists of board games and their reviews. While anyo
 
 ![image](https://github.com/user-attachments/assets/4ea263f7-1f58-4717-9098-756492951c26)
 
+
+**SonarQube-Webhook-Config**
+
+![image](https://github.com/user-attachments/assets/28533ef8-987f-40ca-9c1d-8d3dec034ef8)
+
+**SonarQube-Token-For-Jenkins**
+
+![image](https://github.com/user-attachments/assets/8b5580f9-9ddf-4fbb-88c4-8b275497627c)
+
+**SonarQube-Quality-Gate-Window**
+
+![image](https://github.com/user-attachments/assets/97e12d56-e4ee-4c7e-b4f3-55a1d7528f39)
+
+**Sonarqube-Report**
+
+![image](https://github.com/user-attachments/assets/253eec20-76e0-41ca-b253-06ca26da984b)
+
+
+**Nexus-Artifacts**
+
+![image](https://github.com/user-attachments/assets/28a7556a-e512-4e69-bc5d-4d12e0527ae9)
+
+
 **Jenkins-Staged-Passed**
 
 ![image](https://github.com/user-attachments/assets/9b5e5fde-f38f-4cb0-9339-b1459a27d2cb)
 
+
 **Docker-Image-Pushed**
 
 ![image](https://github.com/user-attachments/assets/160f7ed9-63c2-411e-ad54-07c5794633a9)
+
 
 **Repo-Sync-To-Argo-CD**
 
@@ -68,10 +86,10 @@ This web application displays lists of board games and their reviews. While anyo
 
 ![image](https://github.com/user-attachments/assets/bdb8a994-d8f6-4851-973d-71c35b66fde3)
 
-
 **Argo-CD-Deployment**
 
 ![image](https://github.com/user-attachments/assets/73219634-e120-452d-8ac7-a1739223c282)
+
 
 **Prometheus-Targets**
 
@@ -90,6 +108,19 @@ This web application displays lists of board games and their reviews. While anyo
 
 ![Grafana-BlacoBox-Dashboard](https://github.com/user-attachments/assets/a1478dcd-c159-48c8-9243-374935920a54)
 
+
+**Node-Exporter-Window**
+
+![image](https://github.com/user-attachments/assets/51b06960-cc3c-4a7f-8ca4-5ec87c299771)
+
+**BlackBox-Exporter-Window**
+
+![image](https://github.com/user-attachments/assets/f96968de-f993-47f6-8d69-280cbeebcdfb)
+
+
+**Website-Up-&-Running**
+
+![image](https://github.com/user-attachments/assets/a92ea8cf-d977-498e-8c2f-a70a92509a43)
 
 
 
