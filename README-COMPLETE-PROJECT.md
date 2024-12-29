@@ -34,7 +34,7 @@ This web application displays lists of board games and their reviews. While anyo
 
 **Servers-up-&-running**
 
-![Jenkins-Server](https://github.com/user-attachments/assets/c215a9da-f9a4-49ab-adef-6b5227b4c1f4) , ![SonarQube-Server](https://github.com/user-attachments/assets/e9144a66-35ab-4365-bb91-4dbdd577b7d5) , ![Nexus-Server](https://github.com/user-attachments/assets/c395960e-bebc-47d7-a881-5f8ee4515b8c)
+![Jenkins-Server](https://github.com/user-attachments/assets/c215a9da-f9a4-49ab-adef-6b5227b4c1f4) ![SonarQube-Server](https://github.com/user-attachments/assets/e9144a66-35ab-4365-bb91-4dbdd577b7d5) ![Nexus-Server](https://github.com/user-attachments/assets/c395960e-bebc-47d7-a881-5f8ee4515b8c)
 
 
 **EC2-Setup**
