@@ -2,6 +2,10 @@
 
 ## Description
 
+**Click here to watch a demo video...**
+
+Please click here : https://drive.google.com/file/d/1U-zeDlFMcrU1RVZReoYNSuLnZ7h-uRDC/view?usp=drive_link
+
 **Board Game Database Full-Stack Web Application.**
 This web application displays lists of board games and their reviews. While anyone can view the board game lists and reviews, they are required to log in to add/ edit the board games and their reviews. The 'users' have the authority to add board games to the list and add reviews, and the 'managers' have the authority to edit/ delete the reviews on top of the authorities of users.  
 
