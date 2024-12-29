@@ -52,6 +52,46 @@ This web application displays lists of board games and their reviews. While anyo
 
 ![image](https://github.com/user-attachments/assets/4ea263f7-1f58-4717-9098-756492951c26)
 
+**Jenkins-Staged-Passed**
+
+![image](https://github.com/user-attachments/assets/9b5e5fde-f38f-4cb0-9339-b1459a27d2cb)
+
+**Docker-Image-Pushed**
+
+![image](https://github.com/user-attachments/assets/160f7ed9-63c2-411e-ad54-07c5794633a9)
+
+**Repo-Sync-To-Argo-CD**
+
+![image](https://github.com/user-attachments/assets/b564f72e-3bf0-457c-9259-be5ecb81beb7)
+
+**EKS-Cluster-Added-To-Argo-CD**
+
+![image](https://github.com/user-attachments/assets/bdb8a994-d8f6-4851-973d-71c35b66fde3)
+
+
+**Argo-CD-Deployment**
+
+![image](https://github.com/user-attachments/assets/73219634-e120-452d-8ac7-a1739223c282)
+
+**Prometheus-Targets**
+
+![image](https://github.com/user-attachments/assets/d174ca47-0ad7-40c7-b74f-33e608241d10)
+
+**Prometheus-DataSource-Added-To-Grafana**
+
+![image](https://github.com/user-attachments/assets/4623605c-c4c4-476c-8a49-00ef5db7f85c)
+
+
+**Grafana-Node-Exporter-Dashboard**
+
+![image](https://github.com/user-attachments/assets/8b5ca9b9-e497-44bc-8307-c621ca254849)
+
+**Grafana-BlacoBox-Dashboard**
+
+![Grafana-BlacoBox-Dashboard](https://github.com/user-attachments/assets/a1478dcd-c159-48c8-9243-374935920a54)
+
+
+
 
 
 
