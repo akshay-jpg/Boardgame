@@ -10,15 +10,15 @@ This web application displays lists of board games and their reviews. While anyo
 
 ## Tools used in the project
 
-- Github
-- Maven
 - Amazon Web Services(AWS) EC2
+- Github
 - Jenkins
+- Maven
+- Trivy
 - Sonarqube
 - Nexus
 - DockerHub
 - Docker
-- Trivy
 - Kubernetes
 - ArgoCD
 - Prometheus
@@ -26,7 +26,6 @@ This web application displays lists of board games and their reviews. While anyo
 - NodeExporter
 - BlackBox
   
-
 ## Step by Step Implementation and proofs
 
 - Full-Stack Application
