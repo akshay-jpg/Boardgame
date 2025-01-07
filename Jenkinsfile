@@ -19,7 +19,7 @@ pipeline {
             steps {
                 script {
                     if (params.DOCKER_IMAGE_TAG == '') {
-                        error("DOCKER_IMAGE_TAG must be provided.")
+                        error("Error: The Docker image tag must be provided for versioning and deployment.")
                     }
                 }
             }
