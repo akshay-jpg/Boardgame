@@ -116,16 +116,23 @@
 		</plugins>
 	</build>
 
-
+sh "mvn deploy -DaltDeploymentRepository=nexus-prod::default::http://your-nexus-repo/repository/prod-releases/"
+	
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
             <url>http://13.59.68.15:8081/repository/maven-releases/</url>
         </repository>
+
+	<repository>
+            <id>nexus-prod</id>
+            <url>http://your-nexus-repo/repository/prod-releases/</url>
+        </repository>
+		 
         <snapshotRepository>
             <id>maven-snapshots</id>
             <url>http://13.59.68.15:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-    </distributionManagement>
+       </distributionManagement>
 
 </project>
