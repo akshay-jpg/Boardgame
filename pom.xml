@@ -10,11 +10,15 @@
 	</parent>
 	<groupId>com.javaproject</groupId>
 	<artifactId>database_service_project</artifactId>
-	<version>0.0.7</version>
+	
+	<version>${revision}</version>  <!-- CHANGED: Version is now dynamic --> #changes has made here!!!#
+	
 	<name>database_service_project</name>
 	<description>Project for Spring Boot</description>
 	<packaging>jar</packaging>
 	<properties>
+		 <revision>1.0.${BUILD_NUMBER}</revision>  <!-- CHANGED: Dynamic versioning --> #changes has made here!!!#
+		
 		<java.version>11</java.version>
 		<jacoco.version>0.8.7</jacoco.version>
    		<sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
